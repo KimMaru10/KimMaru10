@@ -13,5 +13,5 @@
 </div>
 </details>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osohyun0224&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KimMaru10&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
 </div>
