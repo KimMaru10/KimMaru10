@@ -1,3 +1,9 @@
+
+## 오늘 당신의 코딩 운세는? (Today's Coding Horoscope)  🪄
+![Tarot message](https://readme-multilang.vercel.app/api/getimage)
+ 
+ 다른 결과가 궁금하다고요? Want to see more results?
+ [Do It Again ♥😍](https://readme-multilang.vercel.app/api/getimage?callback=https://github.com/Anne-Hyeyeon) 
 <div align="center">
 	<h2>Wellcome to KimMaru Git Hub</h2> 
 
