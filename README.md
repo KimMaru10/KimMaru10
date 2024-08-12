@@ -1,11 +1,9 @@
 
-## 오늘 당신의 코딩 운세는? (Today's Coding Horoscope)  🪄
-![Tarot message](https://readme-multilang.vercel.app/api/getimage)
- 
- 다른 결과가 궁금하다고요? Want to see more results?
- [Do It Again ♥😍](https://readme-multilang.vercel.app/api/getimage?callback=https://github.com/Anne-Hyeyeon) 
+
 <div align="center">
 	<h2>Wellcome to KimMaru Git Hub</h2> 
+ ## 오늘 당신의 코딩 운세는? (Today's Coding Horoscope)  🪄
+![Tarot message](https://readme-multilang.vercel.app/api/getimage)
 
 [![Notion Badge](https://img.shields.io/badge/Notion-%20-white?style=flat-square&logo=Notion)](https://spring-blue-66d.notion.site/Nice-to-meet-you-4e62343881114ad88abe6e3364850df9)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-_%20-white?style=flat-square&logo=Instagram&logoColor=Whitepurple)](https://www.instagram.com/daeseong3790/)
