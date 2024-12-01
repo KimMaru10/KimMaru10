@@ -13,7 +13,17 @@
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 	  
-<h2>🏆 Awards </h2> 	
+<h2>🏆 Awards </h2>
+<h3>2023</h3>
+<p>한림대학교 씨애랑 해커톤 동상🥉</p>
+<p>한림대학교 오픈소스 웹개발 해커톤 동상🥉</p>
+<p>한림대학교 씨애랑 소프트웨어 전시회 금상🥇</p>
+<p>Hi FIVE 경진대회 우수상</p>
+
+<h3>2024</h3>
+<p>한림대하교 씨애랑 소프트웨어 전시회 금상🥇</p>
+<p>SW Week 아이디어 경진대회 동상🥉</p>
+<p>정보과학대학 학술제 "서공제" 금상🥇</p>
 </div>
 </details>
 <div align="center">
