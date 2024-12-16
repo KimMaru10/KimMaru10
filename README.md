@@ -5,7 +5,10 @@
 # Hi there! 👋 
 
 ## 👨‍💼 Experience
-PENCIL Co.,Ltd (2025~)
+
+* Web Team, "씨애랑" (Saerang) circle (2023~2024)
+* Development Team, PENCIL Co.,Ltd (2025~)
+
 ## 🏆 Awards
 
 <details>
