@@ -65,6 +65,8 @@
 
 
 ## 💪 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimMaru10&show_icons=true&theme=gotham" style="vertical-align: top; display: inline block;"width="49%" />
-</div>
+### 💪 Stats
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimMaru10&theme=vue)
+![Dongho Gang's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KimMaru10&theme=vue)
+![Dongho Gang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KimMaru10&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j)
+![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KimMaru10&theme=vue&utcOffset=9)
