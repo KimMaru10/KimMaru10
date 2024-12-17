@@ -35,9 +35,17 @@
 <table width="320px">
   <tbody>
     <tr valign="top">
+       <td width="80px" align="center">
+        <span><strong>Next.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+      </td>
       <td width="80px" align="center">
         <span><strong>React.js</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Vue</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       </td>
       <td width="80px" align="center">
         <span><strong>Node.js</strong></span><br>
