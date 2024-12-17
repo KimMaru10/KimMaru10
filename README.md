@@ -66,9 +66,54 @@
 </table>
 
 #### Database
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>MySql</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>MongoDB</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### Tools
-
+<table width="320px">
+  <tbody>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>VSCode</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>AWS</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Figma</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Photoshop</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Illustrator</strong></span><br>
+       <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
