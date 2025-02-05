@@ -6,10 +6,14 @@
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KimMaru10&theme=vue)
 
+<br>
+
 ## 👨‍💼 Experience
 
 - Web Team, "씨애랑" (Saerang) circle (2023~2024)
 - Development Team, PENCIL Co.,Ltd (2025~)
+
+<br>
 
 ## 🏆 Awards
 
@@ -25,6 +29,8 @@
 
 </div>
 </details>
+
+<br>
 
 ## 🛠 Tech Stack
 
@@ -111,7 +117,7 @@
     </tr>
   </tbody>
 </table>
-
+<br>
 
 
 ## 💪 Stats
