@@ -51,11 +51,23 @@
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       </td>
       <td width="80px" align="center">
+        <span><strong>Nuxt.js</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
         <span><strong>Node.js</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       </td>
     </tr>
     <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>php</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Laravel</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+      </td>
       <td width="80px" align="center">
         <span><strong>TypeScript</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
