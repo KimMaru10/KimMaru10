@@ -130,9 +130,3 @@
   </tbody>
 </table>
 <br>
-
-
-## 💪 Stats
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KimMaru10&theme=vue)
-![Dongho Gang's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KimMaru10&theme=vue)
-![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KimMaru10&theme=vue&utcOffset=9)
