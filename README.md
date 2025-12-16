@@ -1,12 +1,46 @@
 <div align="left">
+<table>
+<tr>
+<td>
 
-<br/>
+<div align="center">
 
-# 👋 Hi there! I'm **frond-end developer** using Next.js.
+## 🌸 About Me | 自己紹介 | 소개 🌺
 
-![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KimMaru10&theme=vue)
+</div>
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇯🇵 Japanese
+
+```yaml
+名前: キム・デソン
+出身: 日本 × 韓国 ハーフ
+目標: フルスタックエンジニア
+趣味: キャンプ
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🇰🇷 Korean
+
+```yaml
+이름: 김대성
+출신: 일본 × 한국 혼혈
+목표: 풀스택 엔지니어
+취미: 캠핑
+```
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ## 👨‍💼 Experience
 
