@@ -6,7 +6,6 @@
 - Web Team, "씨애랑" (Saerang) circle (2023~2024)
 - System Solution Team, PENCIL Co.,Ltd (2025~)
 
-<br>
 
 ## 🏆 Awards
 
@@ -22,7 +21,6 @@
 </div>
 </details>
 
-<br>
 
 ## 🛠 Tech Stack
 
