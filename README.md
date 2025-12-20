@@ -1,51 +1,10 @@
 <div align="left">
-<table>
-<tr>
-<td>
-
-<div align="center">
-
-## 🌸 About Me | 自己紹介 | 소개 🌺
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🇯🇵 Japanese
-
-```yaml
-名前: キム・デソン
-出身: 日本 × 韓国 ハーフ
-目標: フルスタックエンジニア
-趣味: キャンプ
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🇰🇷 Korean
-
-```yaml
-이름: 김대성
-출신: 일본 × 한국 혼혈
-목표: 풀스택 엔지니어
-취미: 캠핑
-```
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+<img width="100%" alt="自分を表すバナー" src="https://github.com/user-attachments/assets/b0c5411d-06b3-4ea2-bb9b-c65707728b13" />
 
 ## 👨‍💼 Experience
 
 - Web Team, "씨애랑" (Saerang) circle (2023~2024)
-- Development Team, PENCIL Co.,Ltd (2025~)
+- System Solution Team, PENCIL Co.,Ltd (2025~)
 
 <br>
 
@@ -54,13 +13,12 @@
 <details>
 <summary>Click to expand</summary>
 <h3>2023</h3>
-<p>한림대학교 씨애랑 소프트웨어 전시회 금상🥇</p>
+<p>翰林大学 CAeRang ソフトウェア展示会 金賞🥇</p>
 
 <h3>2024</h3>
-<p>한림대학교 씨애랑 소프트웨어 전시회 금상🥇</p>
-<p>정보과학대학 학술제 "서공제" 금상🥇</p>
-<p>2024 2학기 소프트웨어 캡스톤 디자인 대상🥇</p>
-
+<p>翰林大学 CAeRang ソフトウェア展示会 金賞🥇</p>
+<p>情報科学大学 学術祭「ソゴンジェ」 金賞🥇</p>
+<p>2024年度 ソフトウェア キャップストーンデザイン 大賞🥇</p>
 </div>
 </details>
 
