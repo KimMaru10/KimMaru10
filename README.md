@@ -1,5 +1,5 @@
 <div align="left">
-<img width="100%" alt="自分を表すバナー" src="https://github.com/user-attachments/assets/b0c5411d-06b3-4ea2-bb9b-c65707728b13" />
+<img width="100%" alt="自分を表すバナー" src="https://github.com/user-attachments/assets/2e26d84d-f809-4eec-9d4e-63b155912450" />
 
 ## 👨‍💼 Experience
 
