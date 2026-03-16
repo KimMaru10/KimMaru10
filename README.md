@@ -66,6 +66,10 @@
         <span><strong>JavaScript</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       </td>
+      <td width="80px" align="center">
+        <span><strong>FastAPI</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+      </td>
     </tr>
   </tbody>
 </table>
